@@ -52,7 +52,7 @@ namespace TestPruebas1._0
             int n = Convert.ToInt32(Console.ReadLine());
             int suma = 0;
             string[] arr_tmp = Console.ReadLine().Split(' ');
-
+            //test
 
             int[] arr = Array.ConvertAll(arr_tmp, Int32.Parse);
 
